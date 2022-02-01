@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/src/assets/images/color-wash-logo-vertical.png" width="320" alt="Colorwash Logo" />
+  <img src="/color-wash-logo-vertical.png" width="320" alt="Colorwash Logo" />
 </p>
 
 # Customer Control
