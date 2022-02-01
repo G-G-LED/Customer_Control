@@ -35,7 +35,7 @@ CustomerControlDto:
 ```ts
 {
   showNumber: number,  // this is the index of the preprogrammed show - Consult G&G for a show number set configured for your system.
-  timeout: number,     // positive integer
+  timeout: number,     // positive integer. Number of seconds the show will run for. 
 }
 ```
 
